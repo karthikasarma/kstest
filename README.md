@@ -1,4 +1,4 @@
-# Composer-enabled Drupal template dowloaded for the purpose of learning by Karthika
+# Composer-enabled Drupal template
 
 This is Pantheon's recommended starting point for forking new [Drupal](https://www.drupal.org/) upstreams
 that work with the Platform's Integrated Composer build process. It is also the
